@@ -1,0 +1,1020 @@
+﻿Log file open, 05/13/18 20:41:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject4
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2117403851) SRandInit(-2117403851).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228503
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Games/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.13-18.41.38:857][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.13-18.41.38:857][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.13-18.41.38:884][  0]LogInit: Computer: DESKTOP-5CI3UJP
+[2018.05.13-18.41.38:884][  0]LogInit: User: espas
+[2018.05.13-18.41.38:884][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.13-18.41.38:884][  0]LogInit: High frequency timer resolution =2.338447 MHz
+[2018.05.13-18.41.38:884][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.13-18.41.38:884][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.13-18.41.38:884][  0]LogMemory: Process Physical Memory: 274.29 MB used, 274.29 MB peak
+[2018.05.13-18.41.38:884][  0]LogMemory: Process Virtual Memory: 270.20 MB used, 270.20 MB peak
+[2018.05.13-18.41.38:884][  0]LogMemory: Physical Memory: 4947.47 MB used,  3133.11 MB free, 8080.58 MB total
+[2018.05.13-18.41.38:884][  0]LogMemory: Virtual Memory: 663.92 MB used,  3133.11 MB free, 134217728.00 MB total
+[2018.05.13-18.41.39:814][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.05.13-18.41.39:814][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.05.13-18.41.40:719][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.13-18.41.42:434][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.13-18.41.42:492][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660M' (Feature Level 11_0)
+[2018.05.13-18.41.42:492][  0]LogD3D11RHI:       2007/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.13-18.41.42:498][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.05.13-18.41.42:498][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.13-18.41.42:502][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.13-18.41.42:502][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.13-18.41.42:502][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.13-18.41.42:509][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.13-18.41.42:509][  0]LogD3D11RHI:     GPU DeviceId: 0xfd4 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.13-18.41.42:509][  0]LogWindows: EnumDisplayDevices:
+[2018.05.13-18.41.42:510][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.05.13-18.41.42:510][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.05.13-18.41.42:510][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.05.13-18.41.42:510][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.13-18.41.42:510][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660M
+[2018.05.13-18.41.42:510][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.13-18.41.42:510][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.13-18.41.42:510][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2018.05.13-18.41.42:553][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.13-18.41.42:572][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.13-18.41.42:572][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Documents/Unreal Engine/MJ2Unreal/Intermediate/Shaders/WorkingDirectory/9816/).
+[2018.05.13-18.41.42:573][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/espas/AppData/Local/Temp/UnrealShaderWorkingDir/B9A4C6294D77DFB7BFE94AA6B76ABCBA/'.
+[2018.05.13-18.41.42:573][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.13-18.41.44:595][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.13-18.41.44:653][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.13-18.41.44:712][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.13-18.41.44:772][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.13-18.41.44:837][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.13-18.41.44:896][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.13-18.41.44:954][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.13-18.41.45:012][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.13-18.41.45:062][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.13-18.41.45:119][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.13-18.41.45:175][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.13-18.41.45:232][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.13-18.41.45:289][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.13-18.41.45:345][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.13-18.41.45:459][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.13-18.41.45:459][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.13-18.41.45:528][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.13-18.41.45:571][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.13-18.41.45:722][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.13-18.41.45:753][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.13-18.41.45:810][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.13-18.41.45:867][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.13-18.41.45:923][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.13-18.41.46:011][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.13-18.41.46:011][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.13-18.41.47:106][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.13-18.41.47:515][  0]LogDerivedDataCache: Loaded boot cache 0.41s 78MB C:/Users/espas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.13-18.41.47:515][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/espas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.13-18.41.47:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Unreal Engine/MJ2Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.13-18.41.47:516][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.13-18.41.47:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documents/Unreal Engine/MJ2Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.13-18.41.47:516][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.13-18.41.47:587][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.13-18.41.47:601][  0]LogDerivedDataCache: Using Local data cache path C:/Users/espas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.13-18.41.47:615][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.13-18.41.47:615][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.13-18.41.47:666][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.13-18.41.47:666][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.13-18.41.51:702][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.13-18.41.52:304][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.13-18.41.52:373][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.13-18.41.52:373][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.13-18.41.52:373][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.13-18.41.52:373][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.13-18.41.52:373][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.13-18.41.52:414][  0]LogNetVersion: MyProject4 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1714626933)
+[2018.05.13-18.41.52:638][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2018.05.13-18.41.53:483][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.112233 seconds
+[2018.05.13-18.41.53:489][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.13-18.41.53:490][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.13-18.41.53:490][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.13-18.41.53:558][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.13-18.42.16:093][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.13-18.42.16:192][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.13-18.42.17:276][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.13-18.42.17:889][  0]SourceControl: Source control is disabled
+[2018.05.13-18.42.17:889][  0]SourceControl: Source control is disabled
+[2018.05.13-18.42.17:975][  0]SourceControl: Source control is disabled
+[2018.05.13-18.42.18:086][  0]SourceControl: Source control is disabled
+[2018.05.13-18.42.19:552][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.13-18.42.19:963][  0]LogOcInput: OculusInput pre-init called
+[2018.05.13-18.42.20:482][  0]LogEngine: Initializing Engine...
+[2018.05.13-18.42.20:544][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.05.13-18.42.20:798][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.13-18.42.20:798][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.13-18.42.21:046][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.13-18.42.21:069][  0]LogInit: XAudio2 using 'Auriculares (Borofone BE5 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.13-18.42.21:087][  0]LogInit: FAudioDevice initialized.
+[2018.05.13-18.42.21:174][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/espas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.13-18.42.21:190][  0]LogInit: Texture streaming: Enabled
+[2018.05.13-18.42.21:398][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.13-18.42.21:569][  0]LogInit: Transaction tracking system initialized
+[2018.05.13-18.42.22:122][  0]BlueprintLog: New page: Editor Load
+[2018.05.13-18.42.23:513][  0]LocalizationService: Localization service is disabled
+[2018.05.13-18.42.24:766][  0]LogConsoleResponse: Display: 
+[2018.05.13-18.42.25:259][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.13-18.42.25:260][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.13-18.42.25:260][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.13-18.42.25:386][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Engine/MJ2Unreal/Content/' took 0.02s
+[2018.05.13-18.42.28:179][  0]SourceControl: Source control is disabled
+[2018.05.13-18.42.28:180][  0]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.13-18.42.28:180][  0]LightingResults: New page: Lighting Build
+[2018.05.13-18.42.28:228][  0]MapCheck: New page: Map Check
+[2018.05.13-18.42.28:228][  0]LightingResults: New page: Lighting Build
+[2018.05.13-18.42.28:517][  0]LogLinker: Warning: Can't find file '/Game/skyBLACK'
+[2018.05.13-18.42.28:517][  0]LogLinker: Warning: Can't find file for asset '/Game/skyBLACK' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.13-18.42.28:517][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/skyBLACK
+[2018.05.13-18.42.28:521][  0]LogLinker: Warning: Can't find file '/Game/skyBLACK'
+[2018.05.13-18.42.28:521][  0]LogLinker: Warning: Can't find file for asset '/Game/skyBLACK' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.13-18.42.28:521][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/skyBLACK
+[2018.05.13-18.42.28:523][  0]LogLinker: Warning: Can't find file '/Game/skyBLACK'
+[2018.05.13-18.42.28:523][  0]LogLinker: Warning: Can't find file for asset '/Game/skyBLACK' while loading ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.05.13-18.42.28:523][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/skyBLACK
+[2018.05.13-18.42.28:523][  0]LogLinker: Warning: Can't find file '/Game/skyBLACK'
+[2018.05.13-18.42.28:524][  0]LogLinker: Warning: Can't find file for asset '/Game/skyBLACK' while loading ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.05.13-18.42.28:524][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/skyBLACK
+[2018.05.13-18.42.28:532][  0]LogLinker: Warning: Can't find file '/Game/skyBLACK'
+[2018.05.13-18.42.28:532][  0]LoadErrors: Failed to load /Game/skyBLACK.skyBLACK Referenced by K2Node_CallFunction_40283
+[2018.05.13-18.42.28:532][  0]LogLinker: Warning: Can't find file for asset '/Game/skyBLACK' while loading ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.05.13-18.42.28:532][  0]LoadErrors: Failed to load /Game/skyBLACK.skyBLACK Referenced by K2Node_CallFunction_40283
+[2018.05.13-18.42.28:532][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/skyBLACK
+[2018.05.13-18.42.29:143][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.13-18.42.29:211][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.13-18.42.29:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.13-18.42.29:296][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.982ms to complete.
+[2018.05.13-18.42.29:296][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.116
+[2018.05.13-18.42.29:537][  0]LogCollectionManager: Loaded 0 collections in 0.002472 seconds
+[2018.05.13-18.42.29:624][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Engine/MJ2Unreal/Saved/Collections/' took 0.01s
+[2018.05.13-18.42.29:624][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Engine/MJ2Unreal/Content/Developers/espas/Collections/' took 0.01s
+[2018.05.13-18.42.29:624][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Unreal Engine/MJ2Unreal/Content/Collections/' took 0.01s
+[2018.05.13-18.42.29:624][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.13-18.42.29:636][  0]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2363 classes and 519 folders.
+[2018.05.13-18.42.29:710][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.13-18.42.30:703][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.13-18.42.30:765][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.13-18.42.30:867][  0]LogSlate: Took 0.015564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.13-18.42.30:879][  0]LogSlate: Took 0.009313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.13-18.42.30:897][  0]LogSlate: Took 0.012463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.13-18.42.31:009][  0]LogRenderer: Reallocating scene render targets to support 1112x612 Format 10 NumSamples 1 (Frame:1).
+[2018.05.13-18.42.31:338][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.13-18.42.31:338][  0]LogLoad: (Engine Initialization) Total time: 66.14 seconds
+[2018.05.13-18.42.31:338][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.13-18.42.31:338][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.13-18.42.31:338][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.13-18.42.31:711][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.13-18.42.31:791][  0]LogSlate: Took 0.007557 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.13-18.42.32:011][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documents/Unreal Engine/MJ2Unreal/Content/' took 0.32s
+[2018.05.13-18.42.32:024][  1]LogAssetRegistry: Asset discovery search completed in 39.4090 seconds
+[2018.05.13-18.42.32:026][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.13-18.42.32:026][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.05.13-18.45.16:414][326]LogSlate: Took 0.000268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:448][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpTchEvt_Pressed' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:449][326]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpTchEvt_Released' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.16:498][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.13-18.45.16:583][326]LogSavePackage: Save=83.67ms
+[2018.05.13-18.45.16:583][326]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonCharacterE30B94E14FC147FB96B5D58072D064CC.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2018.05.13-18.45.16:587][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.13-18.45.16:600][326]LogSavePackage: Save=1.68ms
+[2018.05.13-18.45.16:600][326]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonCharacter9127351F4FC3202DF7AB98A7B227E51D.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.05.13-18.45.16:604][326]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.13-18.45.26:932][711]LogMetaData: Removing '/Game/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.26:932][711]LogMetaData: Removing '/Game/Blueprints/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.13-18.45.27:030][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ThirdPersonCharacter" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/BP_ThirdPersonCharacter.uasset" SILENT=true
+[2018.05.13-18.45.27:110][711]LogSavePackage: Save=78.20ms
+[2018.05.13-18.45.27:110][711]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/BP_ThirdPersonCharacterDBA8E4774E784BA0F4F84BAD1112C31B.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2018.05.13-18.45.27:114][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/BP_ThirdPersonCharacter.uasset
+[2018.05.13-18.45.27:212][711]LogSavePackage: Save=1.78ms
+[2018.05.13-18.45.27:212][711]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonCharacter77C5239F4B91738F64F87D946DC60BC6.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.05.13-18.45.27:216][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.13-18.47.59:106][648]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.13-18.50.01:839][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Concrete_Grime" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset" SILENT=true
+[2018.05.13-18.50.01:876][881]LogSavePackage: Save=34.98ms
+[2018.05.13-18.50.01:876][881]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Grime9A8A79ED4F41E649515F629693F14FC4.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset'
+[2018.05.13-18.50.01:879][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset
+[2018.05.13-18.50.02:005][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlataformaVermella" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/PlataformaVermella.uasset" SILENT=true
+[2018.05.13-18.50.02:042][881]LogSavePackage: Save=31.45ms
+[2018.05.13-18.50.02:042][881]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/PlataformaVermella144ABDB64D496A7FF38CE88749C9A3E8.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/PlataformaVermella.uasset'
+[2018.05.13-18.50.02:046][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Blueprints/PlataformaVermella.uasset
+[2018.05.13-18.52.10:046][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Concrete_Grime_D" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Concrete_Grime_D.uasset" SILENT=true
+[2018.05.13-18.52.10:204][971]LogSavePackage: Save=155.78ms
+[2018.05.13-18.52.10:204][971]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/T_Concrete_Grime_D5E16CEC24DA9E5C7D65ECCB547764197.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Concrete_Grime_D.uasset'
+[2018.05.13-18.52.10:208][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Concrete_Grime_D.uasset
+[2018.05.13-18.52.10:326][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Concrete_Grime" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset" SILENT=true
+[2018.05.13-18.52.10:354][971]LogSavePackage: Save=22.32ms
+[2018.05.13-18.52.10:354][971]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_GrimeB2D177CE481A9B4C55CDD2888DEA85C6.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset'
+[2018.05.13-18.52.10:356][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset
+[2018.05.13-18.52.24:614][816]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.13-18.52.33:993][353]LogSavePackage: Save=295.19ms
+[2018.05.13-18.52.33:994][353]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonExampleMap_Auto144C81B3541EAB85AA9F0EAA6F5C97E9D.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.05.13-18.52.33:996][353]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.05.13-18.52.33:998][353]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.421
+[2018.05.13-18.52.33:998][353]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2018.05.13-18.52.34:078][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2018.05.13-18.52.34:078][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2018.05.13-18.52.34:089][353]LogSavePackage: Save=5.73ms
+[2018.05.13-18.52.34:089][353]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonGameMode_Auto119D14E6B43B6D3C74091FC89FA221CE7.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset'
+[2018.05.13-18.52.34:091][353]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset
+[2018.05.13-18.52.34:091][353]LogFileHelpers: Auto-saving content packages took 0.091
+[2018.05.13-18.54.00:435][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/T_MacroVariation" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/T_MacroVariation.uasset" SILENT=true
+[2018.05.13-18.54.00:591][367]LogSavePackage: Save=153.81ms
+[2018.05.13-18.54.00:591][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/T_MacroVariation1DB556154E61DAE5DA776EA30076665D.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/T_MacroVariation.uasset'
+[2018.05.13-18.54.00:594][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/T_MacroVariation.uasset
+[2018.05.13-18.54.00:801][367]LogSavePackage: Save=23.98ms
+[2018.05.13-18.54.00:801][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Brick_Clay_BeveledC99822E44D7DF3627F1D3A82A3CC11BD.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset'
+[2018.05.13-18.54.00:802][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset
+[2018.05.13-18.54.00:901][367]LogSavePackage: Save=26.94ms
+[2018.05.13-18.54.00:901][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Brick_Clay_NewED3D264F4D57A6E6F91EFDB93696E334.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset'
+[2018.05.13-18.54.00:902][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_New.uasset
+[2018.05.13-18.54.01:006][367]LogSavePackage: Save=31.19ms
+[2018.05.13-18.54.01:006][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Brick_Clay_OldEEE3A07E465D289CD52DDD8A57177CD9.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset'
+[2018.05.13-18.54.01:007][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2018.05.13-18.54.01:107][367]LogSavePackage: Save=30.73ms
+[2018.05.13-18.54.01:107][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Brick_Cut_StoneCD60B8CB4DC37982FF4D7B84DE19BE4E.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset'
+[2018.05.13-18.54.01:109][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+[2018.05.13-18.54.01:208][367]LogSavePackage: Save=25.96ms
+[2018.05.13-18.54.01:208][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Brick_Hewn_Stone93238ECC4BAC6723E815DFA2E08646B4.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset'
+[2018.05.13-18.54.01:210][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset
+[2018.05.13-18.54.01:307][367]LogSavePackage: Save=23.88ms
+[2018.05.13-18.54.01:307][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_CobbleStone_Pebble2366E90A41E6D498A301E2AD6EF88CEB.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset'
+[2018.05.13-18.54.01:309][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset
+[2018.05.13-18.54.01:490][367]LogSavePackage: Save=108.35ms
+[2018.05.13-18.54.01:490][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_CobbleStone_Smooth96833552435FA61F9D6627823FCFB6E5.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset'
+[2018.05.13-18.54.01:491][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset
+[2018.05.13-18.54.01:592][367]LogSavePackage: Save=31.31ms
+[2018.05.13-18.54.01:592][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_PanelsF17C546A4795203097C7469C43298D56.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset'
+[2018.05.13-18.54.01:594][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2018.05.13-18.54.01:693][367]LogSavePackage: Save=29.93ms
+[2018.05.13-18.54.01:693][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Poured6987D0F14A92F129B944FEBA6DF3A123.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset'
+[2018.05.13-18.54.01:694][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2018.05.13-18.54.01:795][367]LogSavePackage: Save=30.88ms
+[2018.05.13-18.54.01:795][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Tiles93945EB04C04C2435A354180BF7A8358.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset'
+[2018.05.13-18.54.01:797][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Tiles.uasset
+[2018.05.13-18.54.01:861][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Grass" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset" SILENT=true
+[2018.05.13-18.54.01:901][367]LogSavePackage: Save=33.59ms
+[2018.05.13-18.54.01:901][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Ground_GrassFD15DF534FB8A8AABBA3EABCFD093D9B.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset'
+[2018.05.13-18.54.01:902][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset
+[2018.05.13-18.54.01:969][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Gravel" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset" SILENT=true
+[2018.05.13-18.54.02:005][367]LogSavePackage: Save=29.68ms
+[2018.05.13-18.54.02:005][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Ground_GravelA719BC9244A55752700773AF2E331867.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset'
+[2018.05.13-18.54.02:007][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset
+[2018.05.13-18.54.02:070][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Moss" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset" SILENT=true
+[2018.05.13-18.54.02:111][367]LogSavePackage: Save=34.33ms
+[2018.05.13-18.54.02:111][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Ground_MossDFB452814D1203DBD7752B9354E019E6.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset'
+[2018.05.13-18.54.02:112][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset
+[2018.05.13-18.54.02:208][367]LogSavePackage: Save=20.30ms
+[2018.05.13-18.54.02:208][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_Brushed_Nickel1A2A6E6C4C24C11E0D04709604F5FF52.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset'
+[2018.05.13-18.54.02:209][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2018.05.13-18.54.02:304][367]LogSavePackage: Save=24.39ms
+[2018.05.13-18.54.02:304][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_Burnished_SteelD76E7BDD4B91112C6D22B38619BFF269.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset'
+[2018.05.13-18.54.02:306][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2018.05.13-18.54.02:369][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Chrome" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Chrome.uasset" SILENT=true
+[2018.05.13-18.54.02:396][367]LogSavePackage: Save=20.52ms
+[2018.05.13-18.54.02:396][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_ChromeAEB40F77416344C5222F218A34B13950.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Chrome.uasset'
+[2018.05.13-18.54.02:398][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2018.05.13-18.54.02:462][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Copper" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset" SILENT=true
+[2018.05.13-18.54.02:493][367]LogSavePackage: Save=24.00ms
+[2018.05.13-18.54.02:493][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_Copper27E7C6164FA1535F01F441B387B65ED3.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset'
+[2018.05.13-18.54.02:494][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2018.05.13-18.54.02:557][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Gold" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Gold.uasset" SILENT=true
+[2018.05.13-18.54.02:588][367]LogSavePackage: Save=24.22ms
+[2018.05.13-18.54.02:588][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_Gold419168D24F833E597E04CBA3DA760EED.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Gold.uasset'
+[2018.05.13-18.54.02:590][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2018.05.13-18.54.02:653][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Rust" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset" SILENT=true
+[2018.05.13-18.54.02:683][367]LogSavePackage: Save=23.61ms
+[2018.05.13-18.54.02:683][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_Rust28ABF999485F9CA7D11FC695C18C2267.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset'
+[2018.05.13-18.54.02:685][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2018.05.13-18.54.02:748][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Steel" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Steel.uasset" SILENT=true
+[2018.05.13-18.54.02:778][367]LogSavePackage: Save=24.16ms
+[2018.05.13-18.54.02:778][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_Steel5D1D1E734D0ED8D7DA8F2E8704BFD54A.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Steel.uasset'
+[2018.05.13-18.54.02:780][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2018.05.13-18.54.02:844][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Basalt" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset" SILENT=true
+[2018.05.13-18.54.02:885][367]LogSavePackage: Save=35.46ms
+[2018.05.13-18.54.02:886][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Rock_Basalt5CDD77EF4D54923757DDDF885C007568.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset'
+[2018.05.13-18.54.02:887][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2018.05.13-18.54.02:997][367]LogSavePackage: Save=34.89ms
+[2018.05.13-18.54.02:997][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Rock_Sandstone4181C08B47DC190A828CC6BE8B34B414.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset'
+[2018.05.13-18.54.02:999][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2018.05.13-18.54.03:063][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Slate" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset" SILENT=true
+[2018.05.13-18.54.03:105][367]LogSavePackage: Save=36.01ms
+[2018.05.13-18.54.03:105][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Rock_Slate2124674541453C188B7F4BAC605EE7D7.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset'
+[2018.05.13-18.54.03:107][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2018.05.13-18.54.03:206][367]LogSavePackage: Save=23.82ms
+[2018.05.13-18.54.03:206][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Tech_Hex_Tile_Pulse49F38EDE472B05430F02CEB897F065B3.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset'
+[2018.05.13-18.54.03:208][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2018.05.13-18.54.03:271][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Tech_Panel" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Tech_Panel.uasset" SILENT=true
+[2018.05.13-18.54.03:304][367]LogSavePackage: Save=26.54ms
+[2018.05.13-18.54.03:304][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Tech_Panel4F97D84D4FD0D2B65C375D9CA74EEE64.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Tech_Panel.uasset'
+[2018.05.13-18.54.03:306][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2018.05.13-18.54.03:403][367]LogSavePackage: Save=23.62ms
+[2018.05.13-18.54.03:403][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Wood_Floor_Walnut_WornBA4BCCC74540F86DD6995FB915CDB8FE.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset'
+[2018.05.13-18.54.03:405][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2018.05.13-18.54.03:471][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Oak" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Oak.uasset" SILENT=true
+[2018.05.13-18.54.03:503][367]LogSavePackage: Save=24.56ms
+[2018.05.13-18.54.03:503][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Wood_OakF69155714F72DC73FF358CBACC0A909F.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Oak.uasset'
+[2018.05.13-18.54.03:504][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2018.05.13-18.54.03:569][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Pine" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset" SILENT=true
+[2018.05.13-18.54.03:605][367]LogSavePackage: Save=29.78ms
+[2018.05.13-18.54.03:605][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Wood_PineBE0FED3E438E316ABF3F159AA4005D22.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset'
+[2018.05.13-18.54.03:607][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2018.05.13-18.54.03:670][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Walnut" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Walnut.uasset" SILENT=true
+[2018.05.13-18.54.03:700][367]LogSavePackage: Save=23.56ms
+[2018.05.13-18.54.03:701][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Wood_WalnutF1837F234ACF028EEED990A539F08364.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Walnut.uasset'
+[2018.05.13-18.54.03:702][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2018.05.13-18.54.03:705][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Concrete_Grime" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset" SILENT=true
+[2018.05.13-18.54.03:733][367]LogSavePackage: Save=22.18ms
+[2018.05.13-18.54.03:733][367]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Grime47F580E34E6155BE74DC3AA35C66B9D4.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset'
+[2018.05.13-18.54.03:734][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset
+[2018.05.13-18.54.24:691][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Metal_Rust_N" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Metal_Rust_N.uasset" SILENT=true
+[2018.05.13-18.54.24:790][214]LogSavePackage: Save=97.18ms
+[2018.05.13-18.54.24:790][214]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/T_Metal_Rust_N47E144AD469CEDFBA2C7D2A45EC03E19.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Metal_Rust_N.uasset'
+[2018.05.13-18.54.24:794][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Metal_Rust_N.uasset
+[2018.05.13-18.54.24:894][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Rust" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset" SILENT=true
+[2018.05.13-18.54.24:912][214]LogSavePackage: Save=12.14ms
+[2018.05.13-18.54.24:912][214]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Metal_RustBB3A55FA4D051BF1B8B67FBCD637A81D.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset'
+[2018.05.13-18.54.24:913][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2018.05.13-18.54.24:917][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Concrete_Grime" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset" SILENT=true
+[2018.05.13-18.54.24:944][214]LogSavePackage: Save=22.52ms
+[2018.05.13-18.54.24:944][214]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Grime9BB887514054D9997A4BE4B0C9B07F58.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset'
+[2018.05.13-18.54.24:946][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset
+[2018.05.13-18.54.34:085][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Perlin_Noise_M" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Perlin_Noise_M.uasset" SILENT=true
+[2018.05.13-18.54.34:198][622]LogSavePackage: Save=110.99ms
+[2018.05.13-18.54.34:198][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/T_Perlin_Noise_M2B628C6A41C853AD02FA9AADA265D911.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Perlin_Noise_M.uasset'
+[2018.05.13-18.54.34:202][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Textures/T_Perlin_Noise_M.uasset
+[2018.05.13-18.54.34:396][622]LogSavePackage: Save=26.48ms
+[2018.05.13-18.54.34:396][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Ceramic_Tile_Checker777255274F0D8B2F5B3824AEBF53CEE9.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset'
+[2018.05.13-18.54.34:398][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset
+[2018.05.13-18.54.34:501][622]LogSavePackage: Save=32.48ms
+[2018.05.13-18.54.34:501][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Rock_Marble_Polished796A516B464B5B792A9A83AA1D712BF3.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset'
+[2018.05.13-18.54.34:502][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2018.05.13-18.54.34:571][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Water_Lake" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Water_Lake.uasset" SILENT=true
+[2018.05.13-18.54.34:611][622]LogSavePackage: Save=32.80ms
+[2018.05.13-18.54.34:611][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Water_Lake0D8366B84467268DA38F19B817E4FEC6.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Water_Lake.uasset'
+[2018.05.13-18.54.34:613][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2018.05.13-18.54.34:675][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Water_Ocean" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Water_Ocean.uasset" SILENT=true
+[2018.05.13-18.54.34:716][622]LogSavePackage: Save=33.80ms
+[2018.05.13-18.54.34:716][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Water_OceanFA64982F4654398146C885A8B990CEF7.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Water_Ocean.uasset'
+[2018.05.13-18.54.34:718][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2018.05.13-18.54.34:813][622]LogSavePackage: Save=24.89ms
+[2018.05.13-18.54.34:813][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Wood_Floor_Walnut_Polished1512D6414A6FD1A4CD328AB5525EE1DA.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset'
+[2018.05.13-18.54.34:815][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2018.05.13-18.54.34:843][622]LogSavePackage: Save=19.05ms
+[2018.05.13-18.54.34:843][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Brick_Clay_Old53603ECB485524136CE31DA54492E844.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset'
+[2018.05.13-18.54.34:844][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset
+[2018.05.13-18.54.34:873][622]LogSavePackage: Save=19.18ms
+[2018.05.13-18.54.34:873][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Brick_Cut_Stone522F8EB642B093E2AB77A687BDF2A56F.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset'
+[2018.05.13-18.54.34:875][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset
+[2018.05.13-18.54.34:905][622]LogSavePackage: Save=20.54ms
+[2018.05.13-18.54.34:905][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Panels346DAF8447EDDE67E76A6D9B2F61B690.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset'
+[2018.05.13-18.54.34:907][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Panels.uasset
+[2018.05.13-18.54.34:935][622]LogSavePackage: Save=19.30ms
+[2018.05.13-18.54.34:935][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Poured3C058E604F0081AA25E57780C900E643.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset'
+[2018.05.13-18.54.34:937][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Concrete_Poured.uasset
+[2018.05.13-18.54.34:941][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Grass" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset" SILENT=true
+[2018.05.13-18.54.34:967][622]LogSavePackage: Save=20.54ms
+[2018.05.13-18.54.34:967][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Ground_Grass53FFFA3F4C0CA171347603938E173D24.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset'
+[2018.05.13-18.54.34:969][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Grass.uasset
+[2018.05.13-18.54.34:973][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Gravel" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset" SILENT=true
+[2018.05.13-18.54.34:998][622]LogSavePackage: Save=18.74ms
+[2018.05.13-18.54.34:998][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Ground_Gravel93CDF4F64362F61A24D914863AF5496D.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset'
+[2018.05.13-18.54.34:999][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Gravel.uasset
+[2018.05.13-18.54.35:003][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Ground_Moss" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset" SILENT=true
+[2018.05.13-18.54.35:030][622]LogSavePackage: Save=21.64ms
+[2018.05.13-18.54.35:030][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Ground_Moss4E34637C44C708B6D654D9A866E8D9AD.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset'
+[2018.05.13-18.54.35:032][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Ground_Moss.uasset
+[2018.05.13-18.54.35:036][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Basalt" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset" SILENT=true
+[2018.05.13-18.54.35:067][622]LogSavePackage: Save=24.89ms
+[2018.05.13-18.54.35:067][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Rock_Basalt88596BBD46C549E9C72CFB84825AD162.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset'
+[2018.05.13-18.54.35:068][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2018.05.13-18.54.35:102][622]LogSavePackage: Save=24.12ms
+[2018.05.13-18.54.35:102][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Rock_Sandstone640B239740DA41FFD51565BDFD91FF55.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset'
+[2018.05.13-18.54.35:104][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2018.05.13-18.54.35:108][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Rock_Slate" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset" SILENT=true
+[2018.05.13-18.54.35:138][622]LogSavePackage: Save=24.65ms
+[2018.05.13-18.54.35:138][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Rock_Slate1D0414CE49F60928B1D083ADA7C9BAB8.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset'
+[2018.05.13-18.54.35:139][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2018.05.13-18.54.35:143][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Wood_Pine" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset" SILENT=true
+[2018.05.13-18.54.35:168][622]LogSavePackage: Save=19.28ms
+[2018.05.13-18.54.35:168][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Wood_PineA1948B9C40B6B738244902AC1CDCFD68.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset'
+[2018.05.13-18.54.35:170][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2018.05.13-18.54.35:173][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Concrete_Grime" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset" SILENT=true
+[2018.05.13-18.54.35:202][622]LogSavePackage: Save=23.57ms
+[2018.05.13-18.54.35:202][622]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/M_Concrete_Grime7149ED46497904E5A0D2D8AA341F0461.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset'
+[2018.05.13-18.54.35:204][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Materials/M_Concrete_Grime.uasset
+[2018.05.13-18.56.08:741][998]LogMetaData: Removing '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.05.13-18.56.08:741][998]LogMetaData: Removing '/Game/Geometry/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.05.13-18.56.09:167][998]LogSavePackage: Save=292.62ms
+[2018.05.13-18.56.09:167][998]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonExampleMap8BA25BC34316C26B91DD208077FB43C9.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap'
+[2018.05.13-18.56.09:171][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap
+[2018.05.13-18.56.09:201][998]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.418
+[2018.05.13-18.56.22:739][638]LogSavePackage: Save=280.05ms
+[2018.05.13-18.56.22:739][638]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonExampleMap6943D88545AE6DF58F4735BCE248A965.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap'
+[2018.05.13-18.56.22:744][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap
+[2018.05.13-18.57.21:516][474]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.13-18.57.38:207][331]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.13-18.57.38:864][332]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.13-18.58.16:324][772]LogEditorTransaction: Undo Edit Environment Cube Map
+[2018.05.13-18.58.19:487][915]LogEditorTransaction: Undo Staticmesh editor: Material changed
+[2018.05.13-18.58.37:267][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/nivell2" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/nivell2.uasset" SILENT=true
+[2018.05.13-18.58.37:288][719]LogSavePackage: Save=13.36ms
+[2018.05.13-18.58.37:288][719]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/nivell23E0D4F6E445500CBFB090E9D748E158F.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/nivell2.uasset'
+[2018.05.13-18.58.37:292][719]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/nivell2.uasset
+[2018.05.13-18.59.04:147][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/mapaMesNiv1_Mesh2" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapaMesNiv1_Mesh2.uasset" SILENT=true
+[2018.05.13-18.59.04:168][745]LogSavePackage: Save=13.00ms
+[2018.05.13-18.59.04:168][745]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/mapaMesNiv1_Mesh2EB6618364B4676DE4362119E51352F37.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapaMesNiv1_Mesh2.uasset'
+[2018.05.13-18.59.04:172][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapaMesNiv1_Mesh2.uasset
+[2018.05.13-18.59.26:912][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/mapa1_2_3" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset" SILENT=true
+[2018.05.13-18.59.26:934][583]LogSavePackage: Save=13.31ms
+[2018.05.13-18.59.26:934][583]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/mapa1_2_3349055F84E6BC95C1BC2509EBFE7D274.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset'
+[2018.05.13-18.59.26:938][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset
+[2018.05.13-19.00.08:997][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/nouMapa/mapa1_2_3" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/nouMapa/mapa1_2_3.uasset" SILENT=true
+[2018.05.13-19.00.09:017][756]LogSavePackage: Save=14.29ms
+[2018.05.13-19.00.09:017][756]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/mapa1_2_3AF7CBB844F970D132514BE886787BC65.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/nouMapa/mapa1_2_3.uasset'
+[2018.05.13-19.00.09:021][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/nouMapa/mapa1_2_3.uasset
+[2018.05.13-19.00.50:551][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/Map_Level_1" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_1.uasset" SILENT=true
+[2018.05.13-19.00.50:566][561]LogSavePackage: Save=13.22ms
+[2018.05.13-19.00.50:566][561]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/Map_Level_13E874E5D4A3C7F0074565D96F9BAF7D6.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_1.uasset'
+[2018.05.13-19.00.50:570][561]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_1.uasset
+[2018.05.13-19.00.58:989][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/Map_Level_2" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_2.uasset" SILENT=true
+[2018.05.13-19.00.59:003][ 23]LogSavePackage: Save=12.78ms
+[2018.05.13-19.00.59:003][ 23]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/Map_Level_236CA2D1D48162A26EE1370BBFEFE290E.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_2.uasset'
+[2018.05.13-19.00.59:007][ 23]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_2.uasset
+[2018.05.13-19.01.12:269][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/Map_Level_1-2-3" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_1-2-3.uasset" SILENT=true
+[2018.05.13-19.01.12:285][774]LogSavePackage: Save=13.52ms
+[2018.05.13-19.01.12:285][774]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/Map_Level_1-2-382EA6E0B4C08A2ADFB66328924E570C4.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_1-2-3.uasset'
+[2018.05.13-19.01.12:288][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/Map_Level_1-2-3.uasset
+[2018.05.13-19.01.12:292][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/mapa1_2_3" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset" SILENT=true
+[2018.05.13-19.01.12:299][774]LogSavePackage: Save=1.67ms
+[2018.05.13-19.01.12:299][774]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/mapa1_2_3539C4E3844212784FD39CAA26F860DAF.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset'
+[2018.05.13-19.01.12:303][774]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset
+[2018.05.13-19.01.27:122][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/mapa1_2_3" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset" SILENT=true
+[2018.05.13-19.01.27:134][467]LogSavePackage: Save=5.63ms
+[2018.05.13-19.01.27:134][467]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/mapa1_2_3D3098EE94D272353D2E67E9A7051B87C.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset'
+[2018.05.13-19.01.27:140][467]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset
+[2018.05.13-19.04.31:385][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mapa/mapa1_2_3" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset" SILENT=true
+[2018.05.13-19.04.31:395][380]LogSavePackage: Save=1.74ms
+[2018.05.13-19.04.31:395][380]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/mapa1_2_35A44FFA44C482E3C7CA343B92978387A.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset'
+[2018.05.13-19.04.31:399][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/mapa1_2_3.uasset
+[2018.05.13-19.04.36:130][616]LogSavePackage: Save=285.52ms
+[2018.05.13-19.04.36:130][616]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonExampleMapA2BB4E504FB22D94F1A195B00B25FC72.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap'
+[2018.05.13-19.04.36:135][616]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap
+[2018.05.13-19.04.36:884][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.13-19.04.37:058][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.04.37:071][650]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.13-19.04.37:080][650]LogPlayLevel: [PlayLevel] Compiling PlataformaVermella before play...
+[2018.05.13-19.04.38:048][650]LogPlayLevel: PlayLevel: Blueprint regeneration took 976 ms (1 blueprints)
+[2018.05.13-19.04.38:120][650]PIE: New page: PIE session: ThirdPersonExampleMap (May 13, 2018, 11:04:38 PM)
+[2018.05.13-19.04.38:145][650]LogPlayLevel: Creating play world package: /Game/Geometry/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.13-19.04.38:197][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051704s)
+[2018.05.13-19.04.38:198][650]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.13-19.04.38:198][650]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2018.05.13-19.04.38:199][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Geometry/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053604s)
+[2018.05.13-19.04.38:251][650]LogInit: XAudio2 using 'Auriculares (Borofone BE5 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.13-19.04.38:261][650]LogInit: FAudioDevice initialized.
+[2018.05.13-19.04.38:320][650]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.05.13-19.04.38:320][650]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2018.05.13-19.04.38:332][650]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2018.05.13-19.04.38:332][650]LogLoad: Game class is 'GameModeBase'
+[2018.05.13-19.04.38:349][650]LogWorld: Bringing World /Game/Geometry/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.13-21.04.38
+[2018.05.13-19.04.38:431][650]LogWorld: Bringing up level for play took: 0.097023
+[2018.05.13-19.04.38:665][650]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.05.13-19.04.38:681][650]PIE: Play in editor start time for /Game/Geometry/UEDPIE_0_ThirdPersonExampleMap 0.829
+[2018.05.13-19.04.38:681][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.04.47:666][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.04.47:700][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.04.49:667][262]LogSavePackage: Save=283.21ms
+[2018.05.13-19.04.49:667][262]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonExampleMapE86454C144B5AF8EF20BA28297B151C3.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap'
+[2018.05.13-19.04.49:672][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap
+[2018.05.13-19.05.08:117][214]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.13-19.05.08:260][215]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.05.13-19.05.08:352][216]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.05.13-19.05.08:500][217]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.05.13-19.05.39:420][433]LogMetaData: Removing '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/Geometry/ThirdPersonExampleMap.PackageMetaData'
+[2018.05.13-19.05.39:420][433]LogMetaData: Removing '/Game/Geometry/Mapa/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/Geometry/ThirdPersonExampleMap.PackageMetaData'
+[2018.05.13-19.05.39:802][433]LogSavePackage: Save=279.11ms
+[2018.05.13-19.05.39:802][433]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonExampleMap1686746A426E6EFABC3ADFA96CE82587.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/ThirdPersonExampleMap.umap'
+[2018.05.13-19.05.39:805][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/ThirdPersonExampleMap.umap
+[2018.05.13-19.05.39:835][433]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.399
+[2018.05.13-19.05.39:842][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3
+[2018.05.13-19.05.39:843][433]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21
+[2018.05.13-19.05.47:683][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2:
+[2018.05.13-19.05.47:715][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:715][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2:
+[2018.05.13-19.05.47:746][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:746][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2:
+[2018.05.13-19.05.47:777][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:777][433]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20:
+[2018.05.13-19.05.47:809][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:809][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1:
+[2018.05.13-19.05.47:840][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:840][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1:
+[2018.05.13-19.05.47:871][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:871][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1:
+[2018.05.13-19.05.47:902][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:902][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3:
+[2018.05.13-19.05.47:932][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:932][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3:
+[2018.05.13-19.05.47:963][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:963][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3:
+[2018.05.13-19.05.47:993][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.47:994][433]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21:
+[2018.05.13-19.05.48:024][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.50:731][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2
+[2018.05.13-19.05.50:731][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2
+[2018.05.13-19.05.50:731][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2
+[2018.05.13-19.05.50:731][433]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20
+[2018.05.13-19.05.50:731][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1
+[2018.05.13-19.05.50:731][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1
+[2018.05.13-19.05.50:731][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1
+[2018.05.13-19.05.50:732][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3
+[2018.05.13-19.05.50:732][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3
+[2018.05.13-19.05.50:732][433]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3
+[2018.05.13-19.05.50:732][433]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21
+[2018.05.13-19.05.51:932][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2:
+[2018.05.13-19.05.51:962][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.51:962][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2:
+[2018.05.13-19.05.51:993][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.51:993][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2:
+[2018.05.13-19.05.52:024][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:024][433]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20:
+[2018.05.13-19.05.52:055][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:055][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1:
+[2018.05.13-19.05.52:086][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:086][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1:
+[2018.05.13-19.05.52:116][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:116][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1:
+[2018.05.13-19.05.52:147][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:147][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3:
+[2018.05.13-19.05.52:177][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:177][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3:
+[2018.05.13-19.05.52:207][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:207][433]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3:
+[2018.05.13-19.05.52:237][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.52:237][433]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21:
+[2018.05.13-19.05.52:267][433]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.05.56:263][433]EditorErrors: New page: Save Output
+[2018.05.13-19.05.56:263][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Can't save ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.uasset: Graph is linked to object ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21 (Unknown property) in external map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Object 'ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21' is in another map
+[2018.05.13-19.05.56:264][433]EditorErrors: Warning: Can't save ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.uasset: Graph is linked to object ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21 (Unknown property) in external map
+[2018.05.13-19.06.17:269][601]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.13-19.06.17:288][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.06.17:288][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.13-19.06.17:289][601]PIE: New page: PIE session: ThirdPersonExampleMap (May 13, 2018, 11:06:17 PM)
+[2018.05.13-19.06.17:289][601]LogPlayLevel: Creating play world package: /Game/Geometry/Mapa/UEDPIE_0_ThirdPersonExampleMap
+[2018.05.13-19.06.17:327][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037878s)
+[2018.05.13-19.06.17:328][601]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.13-19.06.17:328][601]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2018.05.13-19.06.17:328][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/Geometry/Mapa/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039421s)
+[2018.05.13-19.06.17:352][601]LogInit: XAudio2 using 'Auriculares (Borofone BE5 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.13-19.06.17:361][601]LogInit: FAudioDevice initialized.
+[2018.05.13-19.06.17:394][601]LogLoad: Game class is 'GameModeBase'
+[2018.05.13-19.06.17:400][601]LogWorld: Bringing World /Game/Geometry/Mapa/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.05.13-21.06.17
+[2018.05.13-19.06.17:400][601]LogWorld: Bringing up level for play took: 0.005697
+[2018.05.13-19.06.17:402][601]PIE: Play in editor start time for /Game/Geometry/Mapa/UEDPIE_0_ThirdPersonExampleMap -0.45
+[2018.05.13-19.06.17:402][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.06.18:793][681]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.06.18:828][681]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/Geometry/Mapa/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.05.13-19.06.21:273][811]LogLinker: Warning: Can't find file '/Game/skyBLACK'
+[2018.05.13-19.06.21:274][811]LogLinker: Warning: Can't find file for asset '/Game/skyBLACK' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.13-19.06.21:277][811]LogLinker: Warning: Can't find file '/Game/skyBLACK'
+[2018.05.13-19.06.21:277][811]LogLinker: Warning: Can't find file for asset '/Game/skyBLACK' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.05.13-19.06.21:312][811]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Geometry/ThirdPersonExampleMap.ThirdPersonExampleMap_BuiltData'
+[2018.05.13-19.06.39:463][805]LogSavePackage: Save=271.25ms
+[2018.05.13-19.06.39:463][805]LogSavePackage: Moving '../../../../../../Documents/Unreal Engine/MJ2Unreal/Saved/ThirdPersonExampleMap1632A6C1418084E7B9A5038C0DA69C0C.tmp' to '../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/ThirdPersonExampleMap.umap'
+[2018.05.13-19.06.39:469][805]LogSavePackage: Display: Finished SavePackage ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/ThirdPersonExampleMap.umap
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3
+[2018.05.13-19.06.39:504][805]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21
+[2018.05.13-19.06.59:169][805]EditorErrors: New page: Save Output
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Object 'ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21' is in another map
+[2018.05.13-19.06.59:169][805]EditorErrors: Warning: Can't save ../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.uasset: Graph is linked to object Unknown in external map
+[2018.05.13-19.07.09:341][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2
+[2018.05.13-19.07.09:341][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2
+[2018.05.13-19.07.09:341][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3
+[2018.05.13-19.07.09:342][217]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21
+[2018.05.13-19.07.10:814][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2:
+[2018.05.13-19.07.10:845][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.10:845][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2:
+[2018.05.13-19.07.10:883][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.10:883][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2:
+[2018.05.13-19.07.10:914][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.10:914][217]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20:
+[2018.05.13-19.07.10:944][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.10:944][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1:
+[2018.05.13-19.07.10:974][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.10:974][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1:
+[2018.05.13-19.07.11:006][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.11:006][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1:
+[2018.05.13-19.07.11:036][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.11:036][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3:
+[2018.05.13-19.07.11:066][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.11:066][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3:
+[2018.05.13-19.07.11:101][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.11:101][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3:
+[2018.05.13-19.07.11:131][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.11:131][217]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21:
+[2018.05.13-19.07.11:161][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3
+[2018.05.13-19.07.12:050][217]LogSavePackage: Warning: Obj in another map: ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21
+[2018.05.13-19.07.13:392][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_2:
+[2018.05.13-19.07.13:422][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:422][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_2:
+[2018.05.13-19.07.13:453][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:453][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_2:
+[2018.05.13-19.07.13:484][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:484][217]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_20:
+[2018.05.13-19.07.13:516][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:516][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap0_1:
+[2018.05.13-19.07.13:547][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:547][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_0_1:
+[2018.05.13-19.07.13:577][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:577][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion0_1:
+[2018.05.13-19.07.13:608][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:608][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.HQ_Lightmap1_3:
+[2018.05.13-19.07.13:638][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:638][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.LQ_Lightmap_1_3:
+[2018.05.13-19.07.13:668][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:668][217]LogSavePackage: Warning: 
+Referencers of LightMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.SkyOcclusion1_3:
+[2018.05.13-19.07.13:698][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.13:698][217]LogSavePackage: Warning: 
+Referencers of ShadowMapTexture2D /Game/Geometry/Mapa/ThirdPersonExampleMap.ShadowMapTexture2D_21:
+[2018.05.13-19.07.13:728][217]LogSavePackage: Warning: 	MapBuildDataRegistry /Game/Geometry/Mapa/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData (1 refs)
+[2018.05.13-19.07.15:663][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/ThirdPersonExampleMap" FILE="../../../../../../Documents/Unreal Engine/MJ2Unreal/Content/Geometry/ThirdPersonExampleMap.umap" SILENT=true
+[2018.05.13-19.07.16:539][217]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.868 s
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: 
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage.cpp] [Line: 4450]
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: Attempting to save a map package '/Game/Geometry/ThirdPersonExampleMap' that does not contain a map object.
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: Stack: 
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000EF52786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000ECF123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000ED0B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FF802459 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE20EB8D UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE20F5E8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE24B090 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE247AE8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FEADBAC9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE548CE0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE5758CA UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE549228 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000FE58A283 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000EA671B29 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000EA658E57 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CBE7BBF UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CCECD10 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CCF3238 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CC47442 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CC48A79 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CCC8795 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CD82B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CDAEA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CCF540D UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CBC5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CB98095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CC328A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CC1B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000000CC0D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000001E7EE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000001E7E1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000001E7F03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000001E7DD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000005620B85D USER32.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000005620B1EF USER32.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000001E7F1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000007ACE50C8 UE4Editor.exe!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000007ACF5430 UE4Editor.exe!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000007ACF54AA UE4Editor.exe!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000007AD02379 UE4Editor.exe!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x000000007AD03D57 UE4Editor.exe!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x00000000543C1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: [Callstack] 0x0000000056D4F061 ntdll.dll!UnknownFunction []
+[2018.05.13-19.07.16:544][217]LogOutputDevice: Error: 
+[2018.05.13-19.07.16:545][217]LogStats:                SubmitErrorReport -  0.000 s
